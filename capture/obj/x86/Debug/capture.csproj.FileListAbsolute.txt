@@ -1,0 +1,11 @@
+E:\YoonTH\3Vision\국궁\C# program\captureApp\capture\bin\x86\Debug\capture.exe.config
+E:\YoonTH\3Vision\국궁\C# program\captureApp\capture\bin\x86\Debug\capture.exe
+E:\YoonTH\3Vision\국궁\C# program\captureApp\capture\bin\x86\Debug\capture.pdb
+E:\YoonTH\3Vision\국궁\C# program\captureApp\capture\obj\x86\Debug\capture.csprojAssemblyReference.cache
+E:\YoonTH\3Vision\국궁\C# program\captureApp\capture\obj\x86\Debug\capture.AviDialog.resources
+E:\YoonTH\3Vision\국궁\C# program\captureApp\capture\obj\x86\Debug\capture.Form1.resources
+E:\YoonTH\3Vision\국궁\C# program\captureApp\capture\obj\x86\Debug\capture.Properties.Resources.resources
+E:\YoonTH\3Vision\국궁\C# program\captureApp\capture\obj\x86\Debug\capture.csproj.GenerateResource.cache
+E:\YoonTH\3Vision\국궁\C# program\captureApp\capture\obj\x86\Debug\capture.csproj.CoreCompileInputs.cache
+E:\YoonTH\3Vision\국궁\C# program\captureApp\capture\obj\x86\Debug\capture.exe
+E:\YoonTH\3Vision\국궁\C# program\captureApp\capture\obj\x86\Debug\capture.pdb
